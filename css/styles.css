@@ -3160,6 +3160,7 @@ img.u-pull-left {
 
 .s-header__social a {
     display : block;
+    target : _blank;
 }
 
 .s-header__social svg {
